@@ -440,6 +440,29 @@ FOX体育2,rtmp://59.124.75.156:1935/sat/tv741
 耀才财经台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 亚美卫视,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 香港C+蓝光,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
+民视, http://iptv.321.bz/wz.php?id=31
+中天新闻,http://iptv.321.bz/wz.php?id=32
+TVBS新闻台,http://iptv.321.bz/wz.php?id=33
+民视新闻台,http://iptv.321.bz/wz.php?id=34
+东森新闻,http://iptv.321.bz/wz.php?id=35
+华视, http://iptv.321.bz/wz.php?id=36
+中视新闻,http://iptv.321.bz/wz.php?id=38
+台视新闻,http://iptv.321.bz/wz.php?id=39
+壹新闻,http://iptv.321.bz/wz.php?id=40
+民视台湾台,http://iptv.321.bz/wz.php?id=41
+民视第一台,http://iptv.321.bz/wz.php?id=42
+TVB星河,http://iptv.321.bz/wz.php?id=43
+电影一台,http://iptv.321.bz/wz.php?id=45
+星空, http://iptv.321.bz/wz.php?id=46
+三立台湾,http://iptv.321.bz/wz.php?id=47
+非凡新闻,http://iptv.321.bz/wz.php?id=48
+TVBS,http://iptv.321.bz/wz.php?id=49
+环宇新闻,http://iptv.321.bz/wz.php?id=50
+纬来体育,http://iptv.321.bz/wz.php?id=51
+
+
+
+
 影视轮播,#genre#
 邵氏老电影,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/live_97065163_17925468.m3u8 
 
@@ -1563,8 +1586,6 @@ SemenixGaming,http://ai6844823.vc3.aihost10.top/huya.php?id=18012160
 
 红色经典电影,http://ai6844823.vc3.aihost10.top/huya.php?id=11602076
 
-
-
 周星驰,http://ai6844823.vc3.aihost10.top/huya.php?id=11342412
 
 林正英,http://ai6844823.vc3.aihost10.top/huya.php?id=11342421
@@ -2271,8 +2292,6 @@ USA大蛇恐怖,http://ai6844823.vc3.aihost10.top/huya.php?id=19564134
 
 勇敢的心,http://ai6844823.vc3.aihost10.top/huya.php?id=11602037
 
-
-
 埋堆堆-1,http://ai6844823.vc3.aihost10.top/huya.php?id=23865152
 
 埋堆堆-2,http://ai6844823.vc3.aihost10.top/huya.php?id=23749096
@@ -2392,6 +2411,7 @@ USA大蛇恐怖,http://ai6844823.vc3.aihost10.top/huya.php?id=19564134
 华视-猜你喜欢,http://ai6844823.vc3.aihost10.top/huya.php?id=23352563
 
 华视-小时代呀,http://ai6844823.vc3.aihost10.top/huya.php?id=23358457
+
 
 
 NewTV,#genre#
