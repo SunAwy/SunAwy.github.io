@@ -477,6 +477,46 @@ TVBS,http://iptv.321.bz/wz.php?id=49
 假期剧场,http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000747/150/index.m3u8?&encrypt=
 
 
+YY电影-1,http://ftp9524803.host166.gotoip4.cn/yy.php?id=1382702247
+
+YY电影-2,http://ftp9524803.host166.gotoip4.cn/yy.php?id=29216766
+
+YY电影-3,http://ftp9524803.host166.gotoip4.cn/yy.php?id=1353506072
+
+YY电影-4,http://ftp9524803.host166.gotoip4.cn/yy.php?id=35221739
+
+YY电影-5,http://ftp9524803.host166.gotoip4.cn/yy.php?id=1353196797
+
+YY电影-6,http://ftp9524803.host166.gotoip4.cn/yy.php?id=37230729
+
+
+YY电影-7,http://ftp9524803.host166.gotoip4.cn/yy.php?id=38789828
+
+
+YY电影-8,http://ftp9524803.host166.gotoip4.cn/yy.php?id=1382702281
+
+
+YY电影-9,http://ftp9524803.host166.gotoip4.cn/yy.php?id=1382671124
+
+YY电影-10,http://ftp9524803.host166.gotoip4.cn/yy.php?id=1354677835
+
+YY电影-11,http://ftp9524803.host166.gotoip4.cn/yy.php?id=37228835
+
+YY电影-12,http://ftp9524803.host166.gotoip4.cn/yy.php?id=1354810882
+
+YY电影-13,http://ftp9524803.host166.gotoip4.cn/yy.php?id=1354007765
+
+YY电影-14,http://ftp9524803.host166.gotoip4.cn/yy.php?id=1352916427
+
+YY电影15,http://ftp9524803.host166.gotoip4.cn/yy.php?id=1354750383
+
+YY电影-16,http://ftp9524803.host166.gotoip4.cn/yy.php?id=1352952473
+
+YY电影-17,http://ftp9524803.host166.gotoip4.cn/yy.php?id=33561695
+
+YY电影-18,http://ftp9524803.host166.gotoip4.cn/yy.php?id=1382658857
+
+YY电影-19,http://ftp9524803.host166.gotoip4.cn/yy.php?id=1352821539
 
 NewTV,#genre#
 NewTV江西,http://39.134.115.163:8080/PLTV/88888910/224/3221225979/index.m3u8$蓝光
