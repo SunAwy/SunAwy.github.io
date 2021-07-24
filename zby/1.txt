@@ -1215,6 +1215,35 @@ iHOT爱青春FHD,http://183.131.161.118:6410/hwltc.tv.cdn.zj.chinamobile.com/PLT
 iHOT爱动漫FHD,http://183.131.161.118:6410/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230136/1.m3u8
 
 
+省内地方,#genre#
+江西都市,
+江西经济生活,http://39.135.138.8:6610/PLTV/88888888/224/3221226206/2/index.m3u8?fmt=ts2hls＄8M蓝光
+江西影视旅游,
+江西公共农村,
+江西少儿,http://39.135.138.8:6610/PLTV/88888888/224/3221226194/2/index.m3u8?fmt=ts2hls＄8M蓝光
+江西新闻,http://39.135.138.8:6610/PLTV/88888888/224/3221225615/2/index.m3u8?fmt=ts2hls＄8M蓝光
+江西教育,http://39.135.138.8:6610/PLTV/88888888/224/3221226197/2/index.m3u8?fmt=ts2hls＄8M蓝光
+九江新闻综合,http://39.135.138.8:6610/PLTV/88888888/224/3221225774/2/index.m3u8?fmt=ts2hls＄3M蓝光
+九江公共,http://39.135.138.8:6610/PLTV/88888888/224/3221225775/2/index.m3u8?fmt=ts2hls＄M蓝光
+吉州,http://39.135.138.8:6610/PLTV/88888888/224/3221225679/2/index.m3u8?fmt=ts2hls＄3M蓝光
+九江公共,http://39.135.138.59:18890/PLTV/88888910/224/3221225775/index.m3u8
+九江新闻综合,http://39.135.138.59:18890/PLTV/88888910/224/3221225774/index.m3u8
+
+
+
+卡通少儿,#genre#
+哈哈炫动,http://39.134.115.163:8080/PLTV/88888910/224/3221225720/index.m3u8$蓝光
+哈哈炫动,http://39.135.138.59:18890/PLTV/88888910/224/3221225720/index.m3u8
+哈哈炫动,http://117.169.124.37:6610/ysten-businessmobile/live/xuandongkaton/yst.m3u8
+优漫卡通,http://39.134.115.163:8080/PLTV/88888910/224/3221225665/index.m3u8$蓝光
+优漫卡通,http://39.135.138.59:18890/PLTV/88888910/224/3221225665/index.m3u8
+优漫卡通,http://117.169.124.37:6610/ysten-businessmobile/live/youmankaton/yst.m3u8
+金鹰卡通,http://39.134.115.163:8080/PLTV/88888910/224/3221225721/index.m3u8$蓝光
+金鹰卡通,http://39.135.138.59:18890/PLTV/88888910/224/3221225721/index.m3u8
+金鹰卡通,http://117.169.124.37:6610/ysten-businessmobile/live/jinyingkaton/yst.m3u8
+卡酷少儿,http://39.134.115.163:8080/PLTV/88888910/224/3221225677/index.m3u8$蓝光
+卡酷少儿,http://39.135.138.59:18890/PLTV/88888910/224/3221225677/index.m3u8
+卡酷少儿,http://117.169.124.37:6610/ysten-businessmobile/live/kakukaton/yst.m3u8
 
 
 
