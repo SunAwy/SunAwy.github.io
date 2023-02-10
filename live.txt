@@ -1,4 +1,4 @@
-﻿##央视频道##
+﻿央视频道,#genre#
 CCTV1,http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 CCTV1,http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
 CCTV1,http://39.135.138.59:18890/PLTV/88888910/224/3221225630/index.m3u8
@@ -47,9 +47,8 @@ CGTN纪录,http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
 央视台球,http://58.200.190.80/hls/hls184a574.m3u8
 电视指南,http://58.200.190.80/hls/hls186a88.m3u8
 天气实时云图,https://mobilelive-cnc-cdn.ysp.cctv.cn/ysp/D9EE6E383155CA08A9C93C6934ACFD1790521C427CE6279E40F8E2608C7EF572221D839078E3779B06C9FDB750BA0E925B7E7BBA6529E017E063FA72AD082EA7E028B08BC956F29884768917044B6C1A18281445F6F5B0C5F6E0AFF49CBA37185A1F177BA3128E894E4D425FE753BCBF166E5CFAC10559930398AB0AB3F658C7/2010129201_hd.m3u8?svrtime=1628672390&pid=600084600&cdn=5203&revoi=1E23A93CD23F71742F61B87601596B098E7A0B2E2EDF4B46A20FBB58481E204F2920049C7DB79FC02F1CE684CA8685E471DDD6131D02C1F4E577C0896FD9F593BD9BDA8B5AC83070CA74EB6DCBAC73A56C2BFA1240F6F6B7AC320F1C89259E18C213E458E4D6DB220977D69364C0B523AB67A7D0C27E36E00F44C2C1475220FF98928EF65A47F7C3DAF60411F192CC17
-##
 
-##卫视频道##
+卫视频道,#genre#
 北京卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8$蓝光
 北京卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225674/index.m3u8$蓝光8M
 北京卫视,http://117.169.124.37:6610/ysten-businessmobile/live/beijingstv/yst.m3u8
@@ -143,14 +142,14 @@ CGTN纪录,http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
 上海纪实,http://39.134.115.163:8080/PLTV/88888910/224/3221225654/index.m3u8$蓝光
 上海纪实,http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8$蓝光8M
 山东教育,http://117.169.124.37:6610/ysten-businessmobile/live/shandongjy/yst.m3u8
-##
 
 
 
 
 
 
-##影视轮播##
+
+影视轮播,#genre#
 CHC动作电影,http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC家庭电影,http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC高清电影,http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
@@ -298,12 +297,12 @@ CNC·英文台,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 潮安影视,http://chaoan.chaoantv.com:8278/live/chaoanyingshi.m3u8
 鹤峰影视,http://hefeng.live.tempsource.cjyun.org/videotmp/s10100-hftv2.m3u8
 华人影视,http://125.210.152.21:9120/live/JPJC.m3u8
-##
 
 
 
 
-##地方频道##
+
+地方频道,#genre#
 江西都市,http://39.135.140.104:6610/PLTV/88888888/224/3221225584/2/index.m3u8?fmt=ts2hls
 江西经济,http://39.135.138.8:6610/PLTV/88888888/224/3221226206/2/index.m3u8?fmt=ts2hls$8M蓝光
 江西经济,http://39.135.140.104:6610/PLTV/88888888/224/3221225580/2/index.m3u8?fmt=ts2hls
@@ -702,10 +701,10 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 肇庆综合,http://dslive.grtn.cn/zqzh/sd/live.m3u8
 清远综合,http://dslive.grtn.cn/qyzh/sd/live.m3u8
 阳江综合,http://dslive.grtn.cn/yjzh/sd/live.m3u8
-##
 
 
-##卡通少儿##
+
+卡通少儿,#genre#
 哈哈炫动,http://39.134.115.163:8080/PLTV/88888910/224/3221225720/index.m3u8$蓝光
 哈哈炫动,http://39.135.138.59:18890/PLTV/88888910/224/3221225720/index.m3u8
 哈哈炫动,http://117.169.124.37:6610/ysten-businessmobile/live/xuandongkaton/yst.m3u8
@@ -788,13 +787,13 @@ iHOT爱动漫,http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=z
 蜡笔小新,http://hlslive.video.ptqy.gitv.tv/tslive/c17_lb_labixiaoxin_720p_t5/c17_lb_labixiaoxin_720p_t5.m3u8?pv=0.2&qd_src=ih5&qd_tm=1612781408461&qd_ip=103.68.60.218&qd_sc=43ebc835e4f0b247906b09ca17115048
 蜡笔小新,http://112.30.197.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c17_lb_labixiaoxin_720p_t5/c17_lb_labixiaoxin_720p_t5.m3u8
 蜡笔小新,http://al.hls.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.m3u8?wsSecret=52a1842f48531ff3d6562272c70de20d&wsTime=602268d8&u=0&seqid=16127814013452858&ctype=tars_mobile&txyp=o%3An6%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103
-##
 
 
 
 
 
-##NewTV##
+
+NewTV,#genre#
 金牌综艺,http://39.134.115.163:8080/PLTV/88888910/224/3221225711/index.m3u8$蓝光
 金牌综艺,http://39.135.138.59:18890/PLTV/88888910/224/3221225711/index.m3u8
 古装剧场,http://39.134.115.163:8080/PLTV/88888910/224/3221225678/index.m3u8$蓝光
@@ -879,12 +878,12 @@ iHOT爱动漫,http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=z
 魅力山东,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225788/index.m3u8
 魅力四川,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225793/index.m3u8
 魅力云南,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225795/index.m3u8
-##
 
 
 
 
-##虎牙轮播##
+
+虎牙轮播,#genre#
 周星驰[1],https://epg.112114.xyz/huya/11342412
 蜡笔小新[2],https://epg.112114.xyz/huya/11352970
 武林外传[3],https://epg.112114.xyz/huya/11352915
@@ -1278,10 +1277,10 @@ da宋提刑官[243],https://epg.112114.xyz/huya/11279251
 虎牙[391],https://epg.112114.xyz/huya/18390254
 虎牙[392],https://epg.112114.xyz/huya/15978172
 天下第一[393],https://epg.112114.xyz/huya/11602036
-##
 
 
-##埋★堆堆##
+
+埋★堆堆,#genre#
 埋堆堆封神榜-陈浩民版[1],https://epg.112114.xyz/huya/23749096
 埋堆堆西游记[2],https://epg.112114.xyz/huya/23865036
 埋堆堆楚汉骄雄[3],https://epg.112114.xyz/huya/23740156
@@ -1361,10 +1360,10 @@ da宋提刑官[243],https://epg.112114.xyz/huya/11279251
 埋堆堆[77],https://epg.112114.xyz/huya/23728689
 埋堆堆[78],https://epg.112114.xyz/huya/23865186
 埋堆堆[79],https://epg.112114.xyz/huya/23865161
-##
 
 
-##斗鱼轮播##
+
+斗鱼轮播,#genre#
 沈腾电影[1],http://epg.112114.xyz/douyu/3637778
 万万没想到[2],http://epg.112114.xyz/douyu/9220456
 惊悚影院[3],http://epg.112114.xyz/douyu/96577
@@ -1748,10 +1747,10 @@ MV放映室[295],http://epg.112114.xyz/douyu/9673980
 恐怖片[426],http://epg.112114.xyz/douyu/3726063
 【经典武侠】[427],http://epg.112114.xyz/douyu/10006017
 下饭神剧[428],http://epg.112114.xyz/douyu/9974786
-##
 
 
-##B站轮播##
+
+B站轮播,#genre#
 星级剧集台[1],http://zzy789.xyz/bili.php?id=8130437
 功夫台[2],http://zzy789.xyz/bili.php?id=21715386
 4KUHD[3],http://zzy789.xyz/bili.php?id=23125843
@@ -2021,12 +2020,12 @@ B站电影[305],http://zzy789.xyz/bili.php?id=7397986
 B站电影[306],http://zzy789.xyz/bili.php?id=22822868
 蓉城影院[307],http://zzy789.xyz/bili.php?id=2456525
 经典港台电视[308],http://zzy789.xyz/bili.php?id=21704054
-##
 
 
 
 
-##歪歪轮播##
+
+歪歪轮播,#genre#
 香港赌片[1],http://106.53.212.251/daili/yy.php?id=29900720
 香港赌片[1],http://106.53.212.251/daili/yy.php?id=29900720
 林正英僵尸鬼片[2],http://106.53.212.251/daili/yy.php?id=34229877
@@ -2260,5 +2259,5 @@ YY电影[229],http://106.53.212.251/daili/yy.php?id=1352916427
 YY电影[230],http://106.53.212.251/daili/yy.php?id=1354750383
 YY电影[231],http://106.53.212.251/daili/yy.php?id=33561695
 YY电影[232],http://106.53.212.251/daili/yy.php?id=1352821539
-##
+
 
