@@ -1747,8 +1747,6 @@ MV放映室[295],http://epg.112114.xyz/douyu/9673980
 【经典武侠】[427],http://epg.112114.xyz/douyu/10006017
 下饭神剧[428],http://epg.112114.xyz/douyu/9974786
 
-
-/*
 B站轮播,#genre#
 星级剧集台[1],http://zzy789.xyz/bili.php?id=8130437
 功夫台[2],http://zzy789.xyz/bili.php?id=21715386
@@ -2019,7 +2017,6 @@ B站电影[305],http://zzy789.xyz/bili.php?id=7397986
 B站电影[306],http://zzy789.xyz/bili.php?id=22822868
 蓉城影院[307],http://zzy789.xyz/bili.php?id=2456525
 经典港台电视[308],http://zzy789.xyz/bili.php?id=21704054
-*/
 
 
 
