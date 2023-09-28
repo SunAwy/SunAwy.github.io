@@ -1,0 +1,16 @@
+{
+	/*"二次截取": "1&&-1+module-item-cover",
+	"数组": "module-item-pic&&module-item-cover",*/
+	"副标题": "module-item-text*>&&</div",
+	"链接": "href=\"&&\"",
+	"导演": "导演：&&</div>",
+	"主演": "主演：&&</div>",
+	"简介": "剧情：&&</div>",
+    "线路数组":"<div class=\"module-tab-item tab-item&&</div[替换:超清(无广告)>>暴风]",
+    "线路标题":"data-dropdown-value=\"&&\"",
+	"搜索url": "http://bfys.tv/vodsearch/-------------.html?wd={wd}",
+	//"分类url": "https://bfys.tv/index.php/vod/show/area/{area}/id/13/year/{year}/page/{catePg}.html;;m",
+	"分类url": "http://bfys.tv/vodshow/{cateId}--{by}------{catePg}---.html;;m",
+	"分类":"电影$23#剧集$22#综艺剧$20#动漫$21",
+	"类型":"1--动作片$49#喜剧片$48#爱情片$45#科幻片$46#恐怖片$47#剧情片$44#战争片$43#纪录片$42||2--国产剧$40#香港剧$35#台湾剧$37#日本剧$38#韩国剧$37#泰国剧$34#欧美剧$39#海外剧$33||3--大陆综艺$25#港台综艺$26#日韩综艺$27#欧美综艺$24||4--国漫$32#港台$30#日漫$28#欧美$29#海外$31"
+}
