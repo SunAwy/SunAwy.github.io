@@ -8,6 +8,7 @@ var rule = {
     headers:{
         'User-Agent':'MOBILE_UA'
     },
+	tab_remove:'douyin',
     timeout:5000,
     class_name:'电视剧&电影&综艺&动漫',
     class_url:'2&1&3&4',
