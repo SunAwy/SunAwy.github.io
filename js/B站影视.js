@@ -19,6 +19,7 @@ var rule = {
         3:{cateId:'3'},
         4:{cateId:'4'}
     },
+    tab_exclude:'b站|腾讯|芒果',
     searchable:2,//是否启用全局搜索,
     quickSearch:0,//是否启用快速搜索,
     headers:{
