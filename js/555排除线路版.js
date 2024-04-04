@@ -14,7 +14,7 @@ var rule = {
 	detailUrl:'/api.php/app/video_detail?id=fyid',
 	searchUrl: '/api.php/app/search?text=**&pg=fypage',
 	//tab_remove:'KK线路,555蓝光,天空线路',
-  //  tab_order:'555蓝光2',
+    tab_order:'极速线路1',
     //tab_exclude:'天空线路',
 	headers:{'User-Agent':'Dart/2.14 (dart:io)'},
 	timeout:5000,
