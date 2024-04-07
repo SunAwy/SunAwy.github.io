@@ -179,7 +179,7 @@ var rule = {
 				'bdxm3u8': '北斗星',
 				'qhm3u8': '奇虎',
 				'hhm3u8': '豪华',
-				'leshiyun': '乐视',
+				'leshi': '乐视',
 				'kbm3u8': '快播'
 			};
 			let episodes = /v1\\.vod/.test(HOST)?node.vod_play_list:node.vod_url_with_player;
