@@ -31,7 +31,49 @@ var rule={
     class_name:'电影&连续剧&综艺&动漫&短剧',//静态分类名称拼接
     class_url:'1&2&3&4&26',//静态分类标识拼接
 	play_parse: true,
-	lazy:'',
+	lazy:`
+	pdfh = jsp.pdfh;
+	pdfa = jsp.pdfa;
+	// log(input);
+	let html=request(input);
+	//log(html);
+	let mac_url = html.match(/mac_url='(.*?)';/)[1];
+	let index = parseInt(input.match(/num-(\\d+)/)[1])-1;
+	let playUrls = mac_url.split('#');
+	let playUrl = playUrls[index].split('$')[1];
+	// log('index:'+index);
+	// log(mac_url);
+	log(playUrl);
+	html = request('https://api.cnmcom.com/webcloud/nmm.php');
+	//log(html);
+	let v7js = pdfa(html,'body&&script').find((it)=>{
+		return pdfh(it,'body&&Html').includes('jsjiami.com');
+	});
+	// v7js = pdfh(v7js,'script&&Html').split('*/')[1];
+	v7js = pdfh(v7js,'script&&Text') || pdfh(v7js,'script&&Html');
+	// log(v7js);
+	// function playlist(obj){log(obj)};
+	var window={location:{href:""},onload:function(){}};function URL(href){return{searchParams:{get:function(){return""}}}}var elements={WANG:{src:""}};var document={getElementById:function(id){return elements[id]}};
+	eval(v7js+'\\nrule.playlist=playlist;');
+	// log(typeof(rule.playlist));
+	let urls = [];
+	let lines = pdfa(html, "body&&li").map(x => {
+		let textContent = pdfh(x, "body&&Text");
+		log(textContent);
+		rule.playlist({
+			textContent: textContent
+		});
+		urls.push(elements.WANG.src)
+	});
+	log(urls);
+	playUrl = urls[0]+playUrl;
+	log(playUrl);
+	html = request(playUrl);
+	// log(html);
+	let realUrl = html.match(/video src="(.*?)"/)[1];
+	// log(realUrl);
+	input = {parse:0,url:realUrl};
+	`,
 	limit:6,
 	推荐:'.globalPicList .resize_list;*;img&&data-src;*;*',
 	一级:'.globalPicList li;.sTit&&Text;img&&src;.sBottom--em&&Text;a&&href',
@@ -45,17 +87,17 @@ var rule={
 	},
 	搜索:'.ulPicTxt.clearfix li;*;img&&data-src;.sDes:eq(1)&&Text;*',
 
-	//是否启用辅助嗅探: 1,0
-	sniffer:1,
-	// 辅助嗅探规则js写法
-	isVideo:`js:
-		log(input);
-		if(/video\\/tos/.test(input)){
-			input = true
-		}else if(/\\.m3u8/.test(input)){
-			input = true
-		}else{
-			input = false
-		}
-	`,
+	// //是否启用辅助嗅探: 1,0
+	// sniffer:1,
+	// // 辅助嗅探规则js写法
+	// isVideo:`js:
+	// 	log(input);
+	// 	if(/video\\/tos/.test(input)){
+	// 		input = true
+	// 	}else if(/\\.m3u8/.test(input)){
+	// 		input = true
+	// 	}else{
+	// 		input = false
+	// 	}
+	// `,
 }
