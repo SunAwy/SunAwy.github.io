@@ -22,7 +22,7 @@ var rule = {
 	class_name:'电影&电视剧&动漫&综艺',
 	class_url:'20&21&22&23',
 	play_parse:true,
-	tab_order:'非凡',
+	tab_order:'暴风',
 	lazy:`js:
 		let play_Url = '';
 		if (/\\.m3u8|\\.mp4/.test(input)) {
