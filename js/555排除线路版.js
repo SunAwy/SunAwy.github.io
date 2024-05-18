@@ -1,6 +1,6 @@
 var rule = {
 	title: '555电影',
-	host: 'https://www.555dyy.top',
+	host:'https://www.5app.online/',
 	hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,".row:eq(2)&&a&&href");print(src);HOST=src',
 	homeUrl:'/api.php/app/index_video',
 	url: '/api.php/app/video?tid=fyclassfyfilter&limit=20&pg=fypage',
