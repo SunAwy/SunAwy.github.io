@@ -41,7 +41,7 @@ var rule = {
 	class_url:'2&1&4&3&46',
 	limit:20,
 	play_parse:true,
-	tab_order:'bf',
+	tab_order:'BF',
 	lazy:`js:
         try {
             function getvideo(url) {
