@@ -41,7 +41,7 @@ var rule = {
 	class_url:'2&1&4&3&46',
 	limit:20,
 	play_parse:true,
-	tab_order:'FF源-勿信视频内广告',
+	tab_order:'bf',
 	lazy:`js:
         try {
             function getvideo(url) {
