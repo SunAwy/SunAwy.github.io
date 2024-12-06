@@ -813,7 +813,7 @@ CCTV14,http://39.134.115.163:8080/PLTV/88888910/224/3221225639/index.m3u8$蓝光
 深圳少儿,http://149.129.100.78/sztv.php?id=7
 爱动漫,http://183.131.161.118:6410/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230136/1.m3u8
 黑莓动画,http://117.169.124.37:6610/ysten-businessmobile/live/donghuawg/yst.m3u8
-【猫和老鼠】汤姆和杰瑞的故事,http://hy.tushepy.com/pls/huya.php?id=11352879&token=b3adbe6bddd60d88a76d35b4b3f289e8
+【猫和老鼠】汤姆和杰瑞的故事,http://hy.tushepy.com/pls/huya/11352879&token=b3adbe6bddd60d88a76d35b4b3f289e8
 哈哈炫动,http://183.207.255.190/live/program/live/hhxdhd/4000000/mnf.m3u8
 哈哈炫动,http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221226388/index.m3u8
 哈哈炫动,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226421/1.m3u8
@@ -1055,100 +1055,100 @@ NewTV,#genre#
 
 
 🎥电影循播,#genre#
-星爷,http://120.77.28.4:8648/huya.php?id=11342412
-英叔,http://120.77.28.4:8648/huya.php?id=11342421
-刘德华,http://120.77.28.4:8648/huya.php?id=11342424
-成龙,http://120.77.28.4:8648/huya.php?id=11342386
-许冠英,http://120.77.28.4:8648/huya.php?id=11601972
-李连杰,http://120.77.28.4:8648/huya.php?id=11342390
-甄子丹,http://120.77.28.4:8648/huya.php?id=11352935
-成龙,http://120.77.28.4:8648/huya.php?id=11342386
-王晶,http://120.77.28.4:8648/huya.php?id=11602058
-沈腾,http://120.77.28.4:8648/huya.php?id=11601968
-黄渤,http://120.77.28.4:8648/huya.php?id=11352876
-吴京,http://120.77.28.4:8648/huya.php?id=11602041
-强森,http://120.77.28.4:8648/huya.php?id=21059581
-洪金宝,http://120.77.28.4:8648/huya.php?id=11279251
-梁家辉,http://120.77.28.4:8648/huya.php?id=11342429
-斯坦森,http://120.77.28.4:8648/huya.php?id=21059588
-发哥,http://120.77.28.4:8648/huya.php?id=11342387
-女神系列,http://120.77.28.4:8648/huya.php?id=11336571
-经典女神,http://120.77.28.4:8648/huya.php?id=11352909
-许氏三杰,http://120.77.28.4:8648/huya.php?id=11602033
-沈腾,http://120.77.28.4:8648/huya.php?id=11601968
-黄渤,http://120.77.28.4:8648/huya.php?id=11352876
+星爷,https://live.metshop.top/huya/11342412
+英叔,https://live.metshop.top/huya/11342421
+刘德华,https://live.metshop.top/huya/11342424
+成龙,https://live.metshop.top/huya/11342386
+许冠英,https://live.metshop.top/huya/11601972
+李连杰,https://live.metshop.top/huya/11342390
+甄子丹,https://live.metshop.top/huya/11352935
+成龙,https://live.metshop.top/huya/11342386
+王晶,https://live.metshop.top/huya/11602058
+沈腾,https://live.metshop.top/huya/11601968
+黄渤,https://live.metshop.top/huya/11352876
+吴京,https://live.metshop.top/huya/11602041
+强森,https://live.metshop.top/huya/21059581
+洪金宝,https://live.metshop.top/huya/11279251
+梁家辉,https://live.metshop.top/huya/11342429
+斯坦森,https://live.metshop.top/huya/21059588
+发哥,https://live.metshop.top/huya/11342387
+女神系列,https://live.metshop.top/huya/11336571
+经典女神,https://live.metshop.top/huya/11352909
+许氏三杰,https://live.metshop.top/huya/11602033
+沈腾,https://live.metshop.top/huya/11601968
+黄渤,https://live.metshop.top/huya/11352876
 
 🎥电影直播,#genre#
-电影_怪兽,http://120.77.28.4:8648/huya.php?id=21059577
-电影_罪犯,http://120.77.28.4:8648/huya.php?id=11352962
-电影_枪战,http://120.77.28.4:8648/huya.php?id=21059579
-小鬼头,http://120.77.28.4:8648/huya.php?id=11352963
-电影_高分动作,http://120.77.28.4:8648/huya.php?id=11352884
-电影_古墓系列,http://120.77.28.4:8648/huya.php?id=11352913
-电影_嫣然影厅,http://120.77.28.4:8648/huya.php?id=11601977
-电影_武侠,http://120.77.28.4:8648/huya.php?id=11342427
-电影_盗墓,http://120.77.28.4:8648/huya.php?id=21059552
-电影_港片,http://120.77.28.4:8648/huya.php?id=11602043
-电影_漫威,http://120.77.28.4:8648/huya.php?id=11602034
-电影_宇宙,http://120.77.28.4:8648/huya.php?id=11342428
-电影_警匪,http://120.77.28.4:8648/huya.php?id=11352886
-电影_海盗,http://120.77.28.4:8648/huya.php?id=21059595
-电影_赛车,http://120.77.28.4:8648/huya.php?id=11279247
-电影_救援,http://120.77.28.4:8648/huya.php?id=21059594
-电影_热血,http://120.77.28.4:8648/huya.php?id=11352934
-电影_谍战,http://120.77.28.4:8648/huya.php?id=21059585
-电影_战争,http://120.77.28.4:8648/huya.php?id=21059592
-怪兽,http://120.77.28.4:8648/huya.php?id=21059577
-武侠,http://120.77.28.4:8648/huya.php?id=11342427
-罪犯,http://120.77.28.4:8648/huya.php?id=11352962
-枪战,http://120.77.28.4:8648/huya.php?id=21059579
-盗墓,http://120.77.28.4:8648/huya.php?id=21059552
-贺岁,http://120.77.28.4:8648/huya.php?id=11601971
-玄幻,http://120.77.28.4:8648/huya.php?id=11342414
-喜剧,http://120.77.28.4:8648/huya.php?id=11352877
-港片,http://120.77.28.4:8648/huya.php?id=11602043
-国产,http://120.77.28.4:8648/huya.php?id=11352973
-喜剧专场,http://120.77.28.4:8648/huya.php?id=11602044
-高分动作,http://120.77.28.4:8648/huya.php?id=11352884
-不挤影院,http://120.77.28.4:8648/huya.php?id=11352897
-黑帮斗争,http://120.77.28.4:8648/huya.php?id=11342419
-嫣然影厅,http://120.77.28.4:8648/huya.php?id=11601977
-经典港片,http://120.77.28.4:8648/huya.php?id=11352965
-经典港片,http://120.77.28.4:8648/yy.php?id=1355263385
-镖行天下,http://120.77.28.4:8648/huya.php?id=11352969
-蘑菇影厅,http://120.77.28.4:8648/huya.php?id=11601981
-搞笑恐怖,http://120.77.28.4:8648/huya.php?id=11601960
-死神来了,http://120.77.28.4:8648/huya.php?id=11352903
-电影_八点档,http://120.77.28.4:8648/huya.php?id=880261
-电影_蜘蛛侠,http://120.77.28.4:8648/huya.php?id=21059599
-电影_贺岁片,http://120.77.28.4:8648/huya.php?id=11601986
-电影_功夫片,http://120.77.28.4:8648/huya.php?id=11352941
-电影_黑帮片,http://120.77.28.4:8648/huya.php?id=11336719
-电影_丧尸片,http://120.77.28.4:8648/huya.php?id=21059578
-电影_灾难片,http://120.77.28.4:8648/huya.php?id=11602075
-电影_谍战片,http://120.77.28.4:8648/huya.php?id=21059587
-电影_战争片,http://120.77.28.4:8648/huya.php?id=21059574
-电影_犯罪片,http://120.77.28.4:8648/huya.php?id=11352974
-电影_古装片,http://120.77.28.4:8648/huya.php?id=11336590
-电影_动作电影,http://120.77.28.4:8648/huya.php?id=11602077
-电影_搞笑喜剧,http://120.77.28.4:8648/huya.php?id=11342423
-电影_欢笑影院,http://120.77.28.4:8648/huya.php?id=11352894
-电影_国产悬疑,http://120.77.28.4:8648/huya.php?id=11342395
-电影_快意江湖,http://120.77.28.4:8648/huya.php?id=11342435
-电影_高能反转,http://120.77.28.4:8648/huya.php?id=11352887
-电影_变形金刚,http://120.77.28.4:8648/huya.php?id=21059596
-电影_怪兽系列,http://120.77.28.4:8648/huya.php?id=21059554
-电影_贺岁,http://120.77.28.4:8648/huya.php?id=11601971
-电影_玄幻,http://120.77.28.4:8648/huya.php?id=11342414
-电影_喜剧,http://120.77.28.4:8648/huya.php?id=11352877
-电影_国产,http://120.77.28.4:8648/huya.php?id=11352973
-电影_国产,http://120.77.28.4:8648/huya.php?id=11602041
-电影_喜剧专场,http://120.77.28.4:8648/huya.php?id=11602044
-电影_不挤影院,http://120.77.28.4:8648/huya.php?id=11352897
-电影_黑帮斗争,http://120.77.28.4:8648/huya.php?id=11342419
-电影_镖行天下,http://120.77.28.4:8648/huya.php?id=11352969
-电影_蘑菇影厅,http://120.77.28.4:8648/huya.php?id=11601981
-电影_死神来了,http://120.77.28.4:8648/huya.php?id=11352903
+电影_怪兽,https://live.metshop.top/huya/21059577
+电影_罪犯,https://live.metshop.top/huya/11352962
+电影_枪战,https://live.metshop.top/huya/21059579
+小鬼头,https://live.metshop.top/huya/11352963
+电影_高分动作,https://live.metshop.top/huya/11352884
+电影_古墓系列,https://live.metshop.top/huya/11352913
+电影_嫣然影厅,https://live.metshop.top/huya/11601977
+电影_武侠,https://live.metshop.top/huya/11342427
+电影_盗墓,https://live.metshop.top/huya/21059552
+电影_港片,https://live.metshop.top/huya/11602043
+电影_漫威,https://live.metshop.top/huya/11602034
+电影_宇宙,https://live.metshop.top/huya/11342428
+电影_警匪,https://live.metshop.top/huya/11352886
+电影_海盗,https://live.metshop.top/huya/21059595
+电影_赛车,https://live.metshop.top/huya/11279247
+电影_救援,https://live.metshop.top/huya/21059594
+电影_热血,https://live.metshop.top/huya/11352934
+电影_谍战,https://live.metshop.top/huya/21059585
+电影_战争,https://live.metshop.top/huya/21059592
+怪兽,https://live.metshop.top/huya/21059577
+武侠,https://live.metshop.top/huya/11342427
+罪犯,https://live.metshop.top/huya/11352962
+枪战,https://live.metshop.top/huya/21059579
+盗墓,https://live.metshop.top/huya/21059552
+贺岁,https://live.metshop.top/huya/11601971
+玄幻,https://live.metshop.top/huya/11342414
+喜剧,https://live.metshop.top/huya/11352877
+港片,https://live.metshop.top/huya/11602043
+国产,https://live.metshop.top/huya/11352973
+喜剧专场,https://live.metshop.top/huya/11602044
+高分动作,https://live.metshop.top/huya/11352884
+不挤影院,https://live.metshop.top/huya/11352897
+黑帮斗争,https://live.metshop.top/huya/11342419
+嫣然影厅,https://live.metshop.top/huya/11601977
+经典港片,https://live.metshop.top/huya/11352965
+经典港片,https://live.metshop.top/yy.php?id=1355263385
+镖行天下,https://live.metshop.top/huya/11352969
+蘑菇影厅,https://live.metshop.top/huya/11601981
+搞笑恐怖,https://live.metshop.top/huya/11601960
+死神来了,https://live.metshop.top/huya/11352903
+电影_八点档,https://live.metshop.top/huya/880261
+电影_蜘蛛侠,https://live.metshop.top/huya/21059599
+电影_贺岁片,https://live.metshop.top/huya/11601986
+电影_功夫片,https://live.metshop.top/huya/11352941
+电影_黑帮片,https://live.metshop.top/huya/11336719
+电影_丧尸片,https://live.metshop.top/huya/21059578
+电影_灾难片,https://live.metshop.top/huya/11602075
+电影_谍战片,https://live.metshop.top/huya/21059587
+电影_战争片,https://live.metshop.top/huya/21059574
+电影_犯罪片,https://live.metshop.top/huya/11352974
+电影_古装片,https://live.metshop.top/huya/11336590
+电影_动作电影,https://live.metshop.top/huya/11602077
+电影_搞笑喜剧,https://live.metshop.top/huya/11342423
+电影_欢笑影院,https://live.metshop.top/huya/11352894
+电影_国产悬疑,https://live.metshop.top/huya/11342395
+电影_快意江湖,https://live.metshop.top/huya/11342435
+电影_高能反转,https://live.metshop.top/huya/11352887
+电影_变形金刚,https://live.metshop.top/huya/21059596
+电影_怪兽系列,https://live.metshop.top/huya/21059554
+电影_贺岁,https://live.metshop.top/huya/11601971
+电影_玄幻,https://live.metshop.top/huya/11342414
+电影_喜剧,https://live.metshop.top/huya/11352877
+电影_国产,https://live.metshop.top/huya/11352973
+电影_国产,https://live.metshop.top/huya/11602041
+电影_喜剧专场,https://live.metshop.top/huya/11602044
+电影_不挤影院,https://live.metshop.top/huya/11352897
+电影_黑帮斗争,https://live.metshop.top/huya/11342419
+电影_镖行天下,https://live.metshop.top/huya/11352969
+电影_蘑菇影厅,https://live.metshop.top/huya/11601981
+电影_死神来了,https://live.metshop.top/huya/11352903
 
 
 🎥电影欣赏,#genre#
@@ -1208,3 +1208,102 @@ TVB官方,https://aldirect.flv.huya.com/src/1199561181026-1199561181026-54344454
 喜剧电影,https://aldirect.flv.huya.com/src/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.flv
 功夫电影,https://aldirect.flv.huya.com/src/1423782056-1423782056-6115097367151640576-2847687568-10057-A-0-1.flv
 搞笑喜剧,https://aldirect.flv.huya.com/src/1423787870-1423787870-6115122338091499520-2847699196-10057-A-0-1.flv
+
+经典剧集,#genre#
+小欢喜,http://live.iill.top/yy.php?id=1382737888
+雪中悍刀行,http://live.iill.top/yy.php?id=1382660835
+鹊刀门传奇,http://live.iill.top/yy.php?id=1355344777
+狂飙,http://live.iill.top/yy.php?id=1355142167
+地下交通站,http://live.iill.top/yy.php?id=1353428972#http://live.iill.top/yy.php?id=37880083#http://live.iill.top/yy.php?id=1382736795
+法证先锋Ⅱ,http://live.iill.top/yy.php?id=1354888736
+济公游记,http://live.iill.top/yy.php?id=1355265814
+笑傲江湖,http://live.iill.top/yy.php?id=1354930909
+溏心风暴之家好月圆,http://live.iill.top/yy.php?id=1354888747
+隋唐英雄传,http://live.iill.top/yy.php?id=1352475619
+我爱我家,http://live.iill.top/yy.php?id=1382735557
+红楼梦87版,http://live.iill.top/yy.php?id=1382745084
+父母爱情,http://live.iill.top/yy.php?id=1354926650
+武林外传,http://live.iill.top/yy.php?id=21092633#http://live.iill.top/yy.php?id=1355652820
+火蓝刀锋,http://live.iill.top/yy.php?id=1382737892
+鹿鼎记,http://live.iill.top/yy.php?id=28265277
+少年包青天1-3,http://live.iill.top/yy.php?id=38498680
+情满四合院,http://live.iill.top/yy.php?id=1382736888#http://live.iill.top/yy.php?id=1382745089
+天下第一,http://live.iill.top/yy.php?id=1382736838
+正阳门下,http://live.iill.top/yy.php?id=1354931580
+封神榜86版,http://live.iill.top/yy.php?id=1353426319
+打狗棍,http://live.iill.top/yy.php?id=39736069
+仙剑奇侠传,http://live.iill.top/yy.php?id=1382749903
+伪装者,http://live.iill.top/yy.php?id=1382851593
+西游记后传,http://live.iill.top/yy.php?id=1382736846
+神探狄仁杰,http://live.iill.top/yy.php?id=1351755386
+宰相刘罗锅,http://live.iill.top/yy.php?id=1382745191
+特种兵火凤凰,http://live.iill.top/yy.php?id=1463088777
+上海滩80版,http://live.iill.top/yy.php?id=1382745184
+法证先锋Ⅰ,http://live.iill.top/yy.php?id=1354930939
+包青天93,http://live.iill.top/yy.php?id=1356158015
+神雕侠侣,http://live.iill.top/yy.php?id=1351762426
+金婚,http://live.iill.top/yy.php?id=1382736832
+风筝,http://live.iill.top/yy.php?id=1354931585
+二炮手,http://live.iill.top/yy.php?id=1354930964
+福贵,http://live.iill.top/yy.php?id=1354926537
+读心神探,http://live.iill.top/yy.php?id=1382736875
+天龙八部黄日华版,http://live.iill.top/yy.php?id=1351814644
+流金岁月,http://live.iill.top/yy.php?id=1382736891
+寻秦记,http://live.iill.top/yy.php?id=1382851591
+知否知否,http://live.iill.top/yy.php?id=21881901
+少年歌行,http://live.iill.top/yy.php?id=1450556636
+少年包青天3,http://live.iill.top/yy.php?id=1382851540
+新白娘子传奇,http://live.iill.top/yy.php?id=1354930969
+士兵突击yy,http://live.iill.top/yy.php?id=1382828766
+黑冰,http://live.iill.top/yy.php?id=1354932427
+宫心计,http://live.iill.top/yy.php?id=1354932429
+放羊的星星,http://live.iill.top/yy.php?id=1355260662
+笑傲江湖2,http://live.iill.top/yy.php?id=1354282410
+我的前半生,http://live.iill.top/yy.php?id=1382735564
+飞虎之潜行极战,http://live.iill.top/yy.php?id=1354932420
+燕双鹰,http://live.iill.top/yy.php?id=1354143942
+小兵张嘎,http://live.iill.top/yy.php?id=1354930225
+新三国演义10版,http://live.iill.top/yy.php?id=1382851457
+鬼吹灯之云南虫谷,https://live.metshop.top/huya/11352898?cdn=txcdn
+飞虎之雷霆极战,http://live.iill.top/yy.php?id=1382736869
+叛逆者,http://live.iill.top/yy.php?id=1382736868
+公主嫁到,http://live.iill.top/yy.php?id=1382736915
+忠烈杨家将,http://live.iill.top/yy.php?id=1382749909
+回家的诱惑,http://live.iill.top/yy.php?id=1354658048
+心理追凶,http://live.iill.top/yy.php?id=1354936207
+少年包青天,http://live.iill.top/yy.php?id=1356043677
+金玉满堂,http://live.iill.top/yy.php?id=1382736881
+名媛望族,http://live.iill.top/yy.php?id=1354932431
+谈判专家,http://live.iill.top/yy.php?id=1382735560
+大汉天子,http://live.iill.top/yy.php?id=1382736807
+怪医文三块,http://live.iill.top/yy.php?id=1354936154
+大江大河2,http://live.iill.top/yy.php?id=1382736797
+来自星星的你,http://live.iill.top/yy.php?id=1354930976
+天道,http://live.iill.top/yy.php?id=1382735574
+太子妃升职记,http://live.iill.top/yy.php?id=1354932359
+生逢灿烂的日子,http://live.iill.top/yy.php?id=1382745085
+三国演义94版,http://live.iill.top/yy.php?id=1354930932
+宝莲灯前传,http://live.iill.top/yy.php?id=1354931631
+西游记张卫健版,http://live.iill.top/yy.php?id=1354936155
+寒山潜龙,http://live.iill.top/yy.php?id=1382745103
+大江大河,http://live.iill.top/yy.php?id=1382736806
+四大名捕,http://live.iill.top/yy.php?id=1354936203
+机动部队,http://live.iill.top/yy.php?id=1354932371
+读心神探2节点,http://live.iill.top/yy.php?id=1382851589
+花千骨,http://live.iill.top/yy.php?id=1354943110
+
+轮播,#genre#
+
+琅琊榜电视剧,http://zby.xjqxz.top/lyb/live.m3u8
+三生三世轮播,http://zby.xjqxz.top/sssszss/live.m3u8
+知否知否轮播,http://zby.xjqxz.top/zfzf/live.m3u8
+
+📡游戏频道📡,#genre#
+
+绝地求生,http://tc-tct.douyucdn2.cn/dyliveflv1/100rPCLP_2000.flv?wsAuth=57c9e2f98378658f92fd61fc2a7c50f0&token=cpn-androidmpro-0-100-7280476511a877c27e63dccc58624acea75be41362f58e9c&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+
+穿越火线,http://tc-tct.douyucdn2.cn/dyliveflv1/605964rzzgGEOZHr.flv?wsAuth=43ef2d796067cbec9c238c73235a1005&token=cpn-androidmpro-0-605964-b9be22700076c085e82232beb0fbe7838e28994acafb3964&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+
+英雄联盟,http://tc-tct.douyucdn2.cn/dyliveflv1a/288016rlols5_2000.flv?wsAuth=2195aecdcc2af09636f7a9bda35cb7a7&token=cpn-androidmpro-0-288016-e9416291174176ee25f8bd3a2a584d653bdaf9d5d79b1e87&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+
+王者荣耀,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=e06e8fc59b6e23439332b7caf1b2687d&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18d8fe12b672922635bfc8c2d455179f350&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
